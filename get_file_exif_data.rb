@@ -36,7 +36,7 @@ class GetFileExifData
   end
 
   def exif_gps
-    exif_data.gps || OpenStruct.new
+    @exif_gps ||= exif_data.gps || OpenStruct.new
   end
 
   def exif_long
