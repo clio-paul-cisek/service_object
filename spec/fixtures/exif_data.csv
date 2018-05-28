@@ -1,0 +1,6 @@
+name,path,lat,long
+image_e.jpg,spec/fixtures/gps_images/cats/image_e.jpg,59.92475507998271,10.695598120067395
+image_d.jpg,spec/fixtures/gps_images/image_d.jpg,,
+image_b.jpg,spec/fixtures/gps_images/image_b.jpg,,
+image_c.jpg,spec/fixtures/gps_images/image_c.jpg,38.4,-122.82866666666666
+image_a.jpg,spec/fixtures/gps_images/image_a.jpg,50.09133333333333,-122.94566666666667
